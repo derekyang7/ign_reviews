@@ -1,4 +1,4 @@
-# ign_reviews
+# Analyzing Data from IGN Reviews
 
 Analyzed and graphed data from IGN reviews after scraping IGN website.
 
